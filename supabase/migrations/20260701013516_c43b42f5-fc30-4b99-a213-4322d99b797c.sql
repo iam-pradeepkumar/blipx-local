@@ -1,0 +1,1 @@
+ALTER TABLE public.phone_numbers ADD COLUMN IF NOT EXISTS provider_config jsonb NOT NULL DEFAULT '{}'::jsonb;

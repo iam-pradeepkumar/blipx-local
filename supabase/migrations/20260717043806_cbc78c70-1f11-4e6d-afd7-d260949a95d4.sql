@@ -1,0 +1,1 @@
+CREATE POLICY "Users can delete their own calls" ON public.calls FOR DELETE TO authenticated USING (auth.uid() = user_id);
