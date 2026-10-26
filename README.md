@@ -14,6 +14,7 @@ Human-sounding, multilingual voice agents for inbound and outbound calls.
 ![Languages](https://img.shields.io/badge/languages-9-orange)
 ![Models](https://img.shields.io/badge/models-API%20%2B%20Open%20Source-purple)
 ![Code](https://img.shields.io/badge/setup-no--code-lightgrey)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 </div>
 
@@ -33,6 +34,7 @@ Human-sounding, multilingual voice agents for inbound and outbound calls.
 - [FAQ](#faq)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
+- [License](#license)
 - [Contact & Legal](#contact--legal)
 
 ---
@@ -225,10 +227,20 @@ Feedback and ideas are welcome. Open an issue or reach out through the contact l
 
 ---
 
+## License
+
+This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for the full text.
+
+Copyright © 2026 BlipX.
+
+---
+
 ## Contact & Legal
 
 - 🌐 Website: [blipx.axolv.in](https://blipx.axolv.in/)
-- ✉️ Contact: hello@axolv.in
+- ✉️ Contact:hello@axolv.in
+- 📄 License: [MIT](./LICENSE)
+
 
 ---
 
